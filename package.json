@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gavinquirk/bootstrap-5-alpha-login#readme",
   "dependencies": {
     "bootstrap": "^5.0.0-alpha1",
-    "bootstrap-icons": "^1.0.0-alpha5"
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "popper.js": "^1.16.1"
   }
 }
